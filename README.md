@@ -38,10 +38,20 @@ The analysis methodology utilizes a rolling windows analysis methodology to cond
 
 ## Notes / 注意事项
 
+- Ensure that you have installed the required dependencies and packages before running the code. The following packages are essential for the successful execution of the project:
+
+  Python 3.10.9
+  Numpy (Van Der Walt et al., 2011)
+  Pandas (McKinney, 2010)
+  Matplotlib (Hunter, JD, 2007)
+  SciPy (Jones, E. et al, 2001)
+  Scikit-Learn (Pedregosa et al., 2011)
+  Keras
+  TensorFlow (Abadi et al., 2016)
 - Ensure that the required dependencies are installed.
 - Some code may need adjustment based on your specific requirements.
 
-- 请确保已经安装了所需的依赖。
+- 请确保已经安装了所需的环境以及packages。
 - 部分代码可能需要根据你的具体情况进行调整。
 
 ## Feedback and Contributions / 反馈与贡献
